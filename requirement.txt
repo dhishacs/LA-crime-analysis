@@ -1,0 +1,8 @@
+pandas
+streamlit
+numpy
+matplotlib
+seaborn
+geopandas
+shapely
+folium
